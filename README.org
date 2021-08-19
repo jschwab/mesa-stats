@@ -1,0 +1,5 @@
+* MESA Stats
+
+See the [[https://github.com/jschwab/mesa-stats/blob/main/MESA-Stats.ipynb][included Jupyter notebook]] for plots showing information about the development of the Modules for Experiments in Stellar Astrophysics (MESA) software.
+
+[[file:MESA-versions.png]]
